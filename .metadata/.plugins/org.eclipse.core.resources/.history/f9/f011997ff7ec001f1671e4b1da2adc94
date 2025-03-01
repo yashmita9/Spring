@@ -1,0 +1,5 @@
+package om.rays.dao;
+
+public interface UserDAOInt {
+
+}

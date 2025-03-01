@@ -1,0 +1,8 @@
+package com.rays.dao;
+
+import javax.swing.tree.RowMapper;
+import com.rays.dto.UserDto;
+
+public class UserMapper implements RowMapper<UserDto>{
+
+}

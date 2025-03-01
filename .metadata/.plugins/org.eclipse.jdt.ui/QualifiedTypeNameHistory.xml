@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+    <fullyQualifiedTypeName name="sun.tools.java.ClassPath"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+    <fullyQualifiedTypeName name="com.rays.bean.UserBean"/>
+    <fullyQualifiedTypeName name="com.rays.bean.Person"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="in.co.rays.notypeautowire.UserDao"/>
+    <fullyQualifiedTypeName name="in.co.rays.notypeautowire.UserService"/>
+    <fullyQualifiedTypeName name="com.rays.autowire.notype.UserDao"/>
+    <fullyQualifiedTypeName name="com.rays.primary.MessageService"/>
+    <fullyQualifiedTypeName name="com.rays.primary.NotificationService"/>
+    <fullyQualifiedTypeName name="com.rays.autowire.byname.UserDao"/>
+    <fullyQualifiedTypeName name="com.rays.autowire.byname.UserDaoImpl"/>
+    <fullyQualifiedTypeName name="com.rays.autowire.byname.UserService"/>
+    <fullyQualifiedTypeName name="com.rays.lifecycle.MyBean"/>
+    <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="javax.annotation.PreDestroy"/>
+    <fullyQualifiedTypeName name="com.rays.child.TestBean"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.rays.dao.UserDAOInt"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="javax.swing.tree.RowMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.RowMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.dao.EmptyResultDataAccessException"/>
+    <fullyQualifiedTypeName name="com.rays.dto.UserDto"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="com.rays.dto.UserDTO"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.rays.service.UserServiceInt"/>
+</qualifiedTypeNameHistroy>
